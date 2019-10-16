@@ -27,7 +27,7 @@ h1{
   width: 350px;
   height: 350px;
   text-align: center;
-  text-shadow: black;
+  text-shadow: 1px 1px black;
   line-height: 350px;
   color: red;
 }
